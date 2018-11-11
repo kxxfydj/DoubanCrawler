@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DoubanCrawler.iml" filepath="$PROJECT_DIR$/DoubanCrawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/douban-admin/douban-admin.iml" filepath="$PROJECT_DIR$/douban-admin/douban-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/douban-business/douban-business.iml" filepath="$PROJECT_DIR$/douban-business/douban-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/douban-crawler/douban-crawler.iml" filepath="$PROJECT_DIR$/douban-crawler/douban-crawler.iml" />
+    </modules>
+  </component>
+</project>
